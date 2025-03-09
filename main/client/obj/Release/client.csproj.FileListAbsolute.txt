@@ -1,0 +1,10 @@
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\client\bin\Release\client.exe.config
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\client\bin\Release\client.exe
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\client\bin\Release\client.pdb
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\client\obj\Release\client.csprojAssemblyReference.cache
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\client\obj\Release\client.Form1.resources
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\client\obj\Release\client.game_windows.resources
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\client\obj\Release\client.Properties.Resources.resources
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\client\obj\Release\client.csproj.GenerateResource.cache
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\client\obj\Release\client.exe
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\client\obj\Release\client.pdb

@@ -1,0 +1,84 @@
+C:\Users\hambe\source\repos\internet server\internet server\bin\Debug\internet server.exe.config
+C:\Users\hambe\source\repos\internet server\internet server\bin\Debug\internet server.exe
+C:\Users\hambe\source\repos\internet server\internet server\bin\Debug\internet server.pdb
+C:\Users\hambe\source\repos\internet server\internet server\obj\Debug\internet server.csprojAssemblyReference.cache
+C:\Users\hambe\source\repos\internet server\internet server\obj\Debug\internet_server.Form1.resources
+C:\Users\hambe\source\repos\internet server\internet server\obj\Debug\internet_server.Properties.Resources.resources
+C:\Users\hambe\source\repos\internet server\internet server\obj\Debug\internet server.csproj.GenerateResource.cache
+C:\Users\hambe\source\repos\internet server\internet server\obj\Debug\internet server.exe
+C:\Users\hambe\source\repos\internet server\internet server\obj\Debug\internet server.pdb
+C:\Users\hambe\source\repos\internet server\internet server\obj\Debug\internet_server.game_windows.resources
+C:\Users\1MF09\Desktop\internet server\internet server\bin\Debug\internet server.exe.config
+C:\Users\1MF09\Desktop\internet server\internet server\bin\Debug\internet server.exe
+C:\Users\1MF09\Desktop\internet server\internet server\bin\Debug\internet server.pdb
+C:\Users\1MF09\Desktop\internet server\internet server\obj\Debug\internet server.csprojAssemblyReference.cache
+C:\Users\1MF09\Desktop\internet server\internet server\obj\Debug\internet_server.Form1.resources
+C:\Users\1MF09\Desktop\internet server\internet server\obj\Debug\internet_server.game_windows.resources
+C:\Users\1MF09\Desktop\internet server\internet server\obj\Debug\internet_server.Properties.Resources.resources
+C:\Users\1MF09\Desktop\internet server\internet server\obj\Debug\internet server.csproj.GenerateResource.cache
+C:\Users\1MF09\Desktop\internet server\internet server\obj\Debug\internet server.csproj.CoreCompileInputs.cache
+C:\Users\1MF09\Desktop\internet server\internet server\obj\Debug\internet server.exe
+C:\Users\1MF09\Desktop\internet server\internet server\obj\Debug\internet server.pdb
+C:\Users\hambe\OneDrive\桌面\internet server\internet server\bin\Debug\internet server.exe.config
+C:\Users\hambe\OneDrive\桌面\internet server\internet server\bin\Debug\internet server.exe
+C:\Users\hambe\OneDrive\桌面\internet server\internet server\bin\Debug\internet server.pdb
+C:\Users\hambe\OneDrive\桌面\internet server\internet server\obj\Debug\internet server.csprojAssemblyReference.cache
+C:\Users\hambe\OneDrive\桌面\internet server\internet server\obj\Debug\internet_server.Form1.resources
+C:\Users\hambe\OneDrive\桌面\internet server\internet server\obj\Debug\internet_server.game_windows.resources
+C:\Users\hambe\OneDrive\桌面\internet server\internet server\obj\Debug\internet_server.Properties.Resources.resources
+C:\Users\hambe\OneDrive\桌面\internet server\internet server\obj\Debug\internet server.csproj.GenerateResource.cache
+C:\Users\hambe\OneDrive\桌面\internet server\internet server\obj\Debug\internet server.exe
+C:\Users\hambe\OneDrive\桌面\internet server\internet server\obj\Debug\internet server.pdb
+C:\Users\Dell\Desktop\avalon\internet server\bin\Debug\internet server.exe.config
+C:\Users\Dell\Desktop\avalon\internet server\bin\Debug\internet server.exe
+C:\Users\Dell\Desktop\avalon\internet server\bin\Debug\internet server.pdb
+C:\Users\Dell\Desktop\avalon\internet server\obj\Debug\internet server.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\avalon\internet server\obj\Debug\internet_server.Form1.resources
+C:\Users\Dell\Desktop\avalon\internet server\obj\Debug\internet_server.game_windows.resources
+C:\Users\Dell\Desktop\avalon\internet server\obj\Debug\internet_server.Properties.Resources.resources
+C:\Users\Dell\Desktop\avalon\internet server\obj\Debug\internet server.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\avalon\internet server\obj\Debug\internet server.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\avalon\internet server\obj\Debug\internet server.exe
+C:\Users\Dell\Desktop\avalon\internet server\obj\Debug\internet server.pdb
+C:\Users\user\Desktop\狼人殺\internet server\bin\Debug\internet server.exe.config
+C:\Users\user\Desktop\狼人殺\internet server\bin\Debug\internet server.exe
+C:\Users\user\Desktop\狼人殺\internet server\bin\Debug\internet server.pdb
+C:\Users\user\Desktop\狼人殺\internet server\obj\Debug\internet server.csprojAssemblyReference.cache
+C:\Users\user\Desktop\狼人殺\internet server\obj\Debug\internet_server.Form1.resources
+C:\Users\user\Desktop\狼人殺\internet server\obj\Debug\internet_server.game_windows.resources
+C:\Users\user\Desktop\狼人殺\internet server\obj\Debug\internet_server.Properties.Resources.resources
+C:\Users\user\Desktop\狼人殺\internet server\obj\Debug\internet server.csproj.GenerateResource.cache
+C:\Users\user\Desktop\狼人殺\internet server\obj\Debug\internet server.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\狼人殺\internet server\obj\Debug\internet server.exe
+C:\Users\user\Desktop\狼人殺\internet server\obj\Debug\internet server.pdb
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\internet server\bin\Debug\internet server.exe.config
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\internet server\bin\Debug\internet server.exe
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\internet server\bin\Debug\internet server.pdb
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\internet server\obj\Debug\internet server.csprojAssemblyReference.cache
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\internet server\obj\Debug\internet_server.Form1.resources
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\internet server\obj\Debug\internet_server.game_windows.resources
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\internet server\obj\Debug\internet_server.Properties.Resources.resources
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\internet server\obj\Debug\internet server.csproj.GenerateResource.cache
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\internet server\obj\Debug\internet server.exe
+C:\Users\hambe\OneDrive\桌面\狼人殺ver3.0\main\internet server\obj\Debug\internet server.pdb
+C:\Users\NTPU\Desktop\狼人殺ver3.0\main\internet server\bin\Debug\internet server.exe.config
+C:\Users\NTPU\Desktop\狼人殺ver3.0\main\internet server\obj\Debug\internet server.exe
+C:\Users\NTPU\Desktop\狼人殺ver3.0\main\internet server\obj\Debug\internet server.pdb
+C:\Users\NTPU\Desktop\狼人殺ver3.0\main\internet server\bin\Debug\internet server.exe
+C:\Users\NTPU\Desktop\狼人殺ver3.0\main\internet server\bin\Debug\internet server.pdb
+C:\Users\NTPU\Desktop\狼人殺ver3.0\main\internet server\obj\Debug\internet server.csprojResolveAssemblyReference.cache
+C:\Users\NTPU\Desktop\狼人殺ver3.0\main\internet server\obj\Debug\internet_server.Form1.resources
+C:\Users\NTPU\Desktop\狼人殺ver3.0\main\internet server\obj\Debug\internet_server.game_windows.resources
+C:\Users\NTPU\Desktop\狼人殺ver3.0\main\internet server\obj\Debug\internet_server.Properties.Resources.resources
+C:\Users\NTPU\Desktop\狼人殺ver3.0\main\internet server\obj\Debug\internet server.csproj.GenerateResource.Cache
+G:\back_up\大二\電腦網頁實習\狼人殺ver3.0\狼人殺ver3.0\main\internet server\bin\Debug\internet server.exe.config
+G:\back_up\大二\電腦網頁實習\狼人殺ver3.0\狼人殺ver3.0\main\internet server\bin\Debug\internet server.exe
+G:\back_up\大二\電腦網頁實習\狼人殺ver3.0\狼人殺ver3.0\main\internet server\bin\Debug\internet server.pdb
+G:\back_up\大二\電腦網頁實習\狼人殺ver3.0\狼人殺ver3.0\main\internet server\obj\Debug\internet server.csprojAssemblyReference.cache
+G:\back_up\大二\電腦網頁實習\狼人殺ver3.0\狼人殺ver3.0\main\internet server\obj\Debug\internet_server.Form1.resources
+G:\back_up\大二\電腦網頁實習\狼人殺ver3.0\狼人殺ver3.0\main\internet server\obj\Debug\internet_server.game_windows.resources
+G:\back_up\大二\電腦網頁實習\狼人殺ver3.0\狼人殺ver3.0\main\internet server\obj\Debug\internet_server.Properties.Resources.resources
+G:\back_up\大二\電腦網頁實習\狼人殺ver3.0\狼人殺ver3.0\main\internet server\obj\Debug\internet server.csproj.GenerateResource.cache
+G:\back_up\大二\電腦網頁實習\狼人殺ver3.0\狼人殺ver3.0\main\internet server\obj\Debug\internet server.csproj.CoreCompileInputs.cache
+G:\back_up\大二\電腦網頁實習\狼人殺ver3.0\狼人殺ver3.0\main\internet server\obj\Debug\internet server.exe
+G:\back_up\大二\電腦網頁實習\狼人殺ver3.0\狼人殺ver3.0\main\internet server\obj\Debug\internet server.pdb
